@@ -4,6 +4,3 @@ Congratulations!
 
 Final Changes Done!!
 
-Yohooooo!!!! Master BRANCH
-
-I mean it.
