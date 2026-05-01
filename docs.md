@@ -6,8 +6,4 @@ Final Changes Done!!
 
 Yohooooo!!!! Master BRANCH
 
-
-Right now i'm in the middle of work. Let's check the conflict that i modified in 7th line.
-
-
-Used for merge-pull thing.
+I mean it.
