@@ -7,7 +7,7 @@ Final Changes Done!!
 Yohooooo!!!!
 
 
-Right now i'm in the middle of work.
+Right now i'm in the middle of work. Let's check the conflict that i modified in 7th line.
 
 
 Used for merge-pull thing.
